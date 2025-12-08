@@ -25,6 +25,6 @@ Despite these challenges, the improved CNN model achieved **strong classificatio
 
 ---
 
-Due to licensing restrictions, the full MRI dataset is not included.  
+Due to licensing restrictions, the  MRI dataset is not included.  
 
 
