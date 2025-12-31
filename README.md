@@ -1,17 +1,15 @@
-# Lung Cancer Detection from MRI Images using CNN
+# Lung Cancer Detection from CT Images using CNN
 
-This repository contains my research work on **detecting lung cancer using MRI images** with deep learning, focusing on Convolutional Neural Networks (CNNs). 
+This repository contains my research work on **detecting lung cancer using CT images** with deep learning, focusing on Convolutional Neural Networks (CNNs). 
 
-MRI-based lung imaging is relatively underexplored, as most lung cancer research relies on **CT images**. This project investigates whether CNN models can achieve strong diagnostic performance on MRI data, which is radiation-free and clinically valuable.
 
 ---
 
 ## 🧠 Project Overview
 
-The goal of this project is to develop a model capable of detecting lung cancer from MRI images.  
+The goal of this project is to develop a model capable of detecting lung cancer from CT images.  
 Key challenges:
-- MRI is not the standard modality for lung cancer → fewer datasets
-- MRI has lower contrast and motion artifacts
+- CT has lower contrast and motion artifacts
 - Risk of overfitting due to limited samples
 
 Despite these challenges, the improved CNN model achieved **strong classification results**:
@@ -25,6 +23,6 @@ Despite these challenges, the improved CNN model achieved **strong classificatio
 
 ---
 
-Due to licensing restrictions, the  MRI dataset is not included.  
+Due to licensing restrictions, the  CT dataset is not included.  
 
 
